@@ -1,0 +1,6 @@
+C:\chubarkov2\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.AssemblyReference.cache
+C:\chubarkov2\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\chubarkov2\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\chubarkov2\WindowsFormsApp1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\chubarkov2\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\chubarkov2\WindowsFormsApp1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

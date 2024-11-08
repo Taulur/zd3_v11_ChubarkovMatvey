@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\chubarkov2\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA1EF68-F7BF-429E-8841-1FC39654C66B}|ClassLibrary2\\ClassLibrary2.csproj|c:\\chubarkov2\\windowsformsapp1\\classlibrary2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA1EF68-F7BF-429E-8841-1FC39654C66B}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA1EF68-F7BF-429E-8841-1FC39654C66B}|ClassLibrary2\\ClassLibrary2.csproj|c:\\chubarkov2\\windowsformsapp1\\classlibrary2\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA1EF68-F7BF-429E-8841-1FC39654C66B}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA1EF68-F7BF-429E-8841-1FC39654C66B}|ClassLibrary2\\ClassLibrary2.csproj|c:\\chubarkov2\\windowsformsapp1\\classlibrary2\\specialairplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AA1EF68-F7BF-429E-8841-1FC39654C66B}|ClassLibrary2\\ClassLibrary2.csproj|solutionrelative:classlibrary2\\specialairplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\chubarkov2\\WindowsFormsApp1\\windowsformsapp1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\chubarkov2\\WindowsFormsApp1\\windowsformsapp1\\specialairplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\specialairplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\chubarkov2\\WindowsFormsApp1\\windowsformsapp1\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A21AAD4-E49B-45C4-9894-0758E4F74F4E}|UnitTestProject1\\UnitTestProject1.csproj|c:\\chubarkov2\\windowsformsapp1\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A21AAD4-E49B-45C4-9894-0758E4F74F4E}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\chubarkov2\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\chubarkov2\\WindowsFormsApp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB6CB879-848F-46F3-BFB3-C7DBBAF1880E}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 596,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpecialAirplane.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\ClassLibrary2\\SpecialAirplane.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\SpecialAirplane.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\ClassLibrary2\\SpecialAirplane.cs",
+              "RelativeToolTip": "ClassLibrary2\\SpecialAirplane.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:00:14.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\ClassLibrary2\\Airplane.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Airplane.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\ClassLibrary2\\Airplane.cs",
+              "RelativeToolTip": "ClassLibrary2\\Airplane.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:59:15.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowIEAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:52:45.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\ClassLibrary2\\Company.cs",
+              "RelativeDocumentMoniker": "ClassLibrary2\\Company.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\ClassLibrary2\\Company.cs",
+              "RelativeToolTip": "ClassLibrary2\\Company.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwBwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:59:03.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Company.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Company.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Company.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Company.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:31:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpecialAirplane.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\SpecialAirplane.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\SpecialAirplane.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\SpecialAirplane.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\SpecialAirplane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:40:39.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Airplane.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Airplane.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Airplane.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Airplane.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:12:45.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:39:58.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\chubarkov2\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T06:11:48.93Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 578,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
